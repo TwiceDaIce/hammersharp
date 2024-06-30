@@ -24,7 +24,7 @@
 		<ApplicationTitle>hammersharp</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.hammersharp</ApplicationId>
+		<ApplicationId>com.housesoup.hammersharp</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
